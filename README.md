@@ -20,7 +20,7 @@
 
 
 - Spécifications fonctionnelles
-    - Contraintes du projet
+    - Contraintes du proje
     - Livrables
     - Architecture logicielle
     - Maquettes
